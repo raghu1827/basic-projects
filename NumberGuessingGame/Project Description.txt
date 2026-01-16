@@ -1,0 +1,24 @@
+PROJECT TITLE: Number Guessing Game in Java
+
+FEATURES:
+1. Random Number Generation: Generates a random number between 1 and 100.
+2. Limited Attempts: The player is given a fixed number of attempts to guess the number.
+3. Feedback: The program informs the player if the guess is too high, too low, or correct.
+
+TOOLS & TECHNOLOGIES:
+- Programming Language: Java
+- IDE: VS Code
+- Java Classes Used:
+  - Math.random()
+  - java.util.Scanner
+
+FLOW OF THE GAME:
+1. Program starts and displays a welcome message.
+2. A random number between 1 and 100 is generated.
+3. User is prompted to guess the number.
+4. Feedback is shown after each guess.
+5. Game ends when the number is guessed or attempts are exhausted.
+
+CONCLUSION:
+The Number Guessing Game is a beginner-level Java project that helps in understanding core programming concepts such as loops,
+conditional statements, and user input handling.
