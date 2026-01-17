@@ -37,10 +37,10 @@ I enjoy building **robust and scalable applications** using modern technologies 
 
 ## 📫 Contact Me
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **GitHub:** https://github.com/your-username
-
+- **Email:** raghavendra18.ganesh@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/raghavendra-d-g
+- **GitHub Account 1:** https://github.com/Hack18-R
+- **GitHub Account 2:** https://github.com/raghu1827
 ---
 
 > This repository contains all my personal and professional projects. You can explore each project folder to see the code and detailed documentation.
